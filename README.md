@@ -14,5 +14,5 @@ robpro#7420
 # LoadString
 
 ```shell
-loadstring(game:HttpGet("https://raw.githubusercontent.com/clockwork-dev/LoaderV3/main/Main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/clockwork-dev/bobolith/main/bobolith%20beta.lua", true))()
 ```
